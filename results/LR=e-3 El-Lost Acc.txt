@@ -1,0 +1,1 @@
+valid Sel_Loss: 0.8346 Acc: 0.6264
